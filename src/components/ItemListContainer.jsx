@@ -1,11 +1,11 @@
+
 import { Center } from '@chakra-ui/react'
 
-const ItemListContainer = ({saludo}) => {
+const ItemListContainer = ({greeting}) => {
   return (
-    
     <>
-      <Center h='300px' color='black' fontSize='60px'>
-        <h1>{saludo}</h1>
+      <Center h='300px' color='black' fontSize='80px'>
+        <h1>{greeting}</h1>
       </Center>
     </>
   )

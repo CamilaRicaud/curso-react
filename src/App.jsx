@@ -6,12 +6,12 @@ import ItemListContainer from './components/ItemListContainer'
 
 const App = () => {
 
-  const saludo = 'Bienvenidos!'
+  const greeting = 'Bienvenidos!'
   return (
     <>
       <NavBar/>
       <ItemListContainer
-      saludo={saludo}
+      greeting={greeting}
       />
     </>
   )
