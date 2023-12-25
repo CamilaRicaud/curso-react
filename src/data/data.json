@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "categoria":"facial",
+        "img":"https://d22fxaf9t8d39k.cloudfront.net/02996ea5b8801f3b17d1f43be0ef5b51e1eb38beda7d001658d833a4f75aa235101312.jpg",
+        "nombre":"Agua Micelar Bifásica -'EOS'",
+        "descripcion":"Agua micelar bifásica limpiadora y desmaquillante. Elaborada con extracto de rosas e hibiscus, agua herbal de geranio, aceite de almendras dulces y aceite esencial de geranio. Indicada para la limpieza diaria de todo tipo de pieles. Ideal para pieles sensibles.",
+        "precio": 7000
+    },
+    {
+        "id": "2",
+        "categoria":"facial",
+        "img":"https://d22fxaf9t8d39k.cloudfront.net/005cf0517f2721ea3cdfa995d0ce8295c71767b47ee88e74b639c691de7733c4101312.jpg", 
+        "nombre":"Crema para piel sensible - 'GLAUCA'",
+        "descripcion":"Creada especialmente para aquellas pieles sensibles o con problemas cutáneos como los brotes de ACNÉ y condiciones inflamatorias e irritantes como la rosácea. Es ideal para tratar heridas, irritaciones, quemaduras, y la piel agrietada, reduciendo también las molestias que estas ocasionan.",
+        "precio": 6700
+    },
+    {
+        "id": "3",
+        "categoria":"corporal",
+        "img":"https://d22fxaf9t8d39k.cloudfront.net/ef47731a57332d220c3bf3c9c3ef8210ba11f4644db3e62e9fa39cc52fb93498101312.jpg",
+        "nombre":"Emulsión Corporal - 'LETO'", 
+        "descripcion":"Formula pensada para brindar una intensa hidratación, nutrición y reparación a nuestras manos y cuerpo. Elaborada con aceites y mantecas puros, de primera prensión en frío (conservando todas sus propiedadaes) y agroecológico.", 
+        "precio": 8500
+    },
+    {
+        "id": "4",
+        "categoria":"corporal",
+        "img":"https://d22fxaf9t8d39k.cloudfront.net/3a84d7c91c40875dc89d7a5106983f9cf928980758c3217c4b1a225c3ff5d83a101312.jpg", 
+        "nombre":"Desodorante Natural - 'EIRENE'", 
+        "descripcion":"Creado con ingredientes 100% amoroso con la piel de nuestras axilas. Creamos una formula ideal para absorver la humedad pero al mismo tiempo no obstruir los poros, permitiendo que sigan cumpliendo su función de eliminar toxinas y regular la temperatura corporal.", 
+        "precio": 7800
+    },
+    {
+        "id": "5",
+        "categoria":"capilar",
+        "img":"https://d22fxaf9t8d39k.cloudfront.net/0df52df9c93fb74550017a951c41c91907fb7c94f374889a22ed1abdd2584895101312.jpg", 
+        "nombre": "Shampoos Sólidos - 'PASITEA'", 
+        "descripcion":"Elaborados para cada tipo de cabello, con ingredientes y propiedades acordes a la necesidadde cada uno de ellos. Es importante destacar que todos contienen SCI, un tensioactivo natural, derivado del aceite de coco y biodegradable, el cual genera abundante espuma y limpia el cabello profundamente.", 
+        "precio": 3200
+    }
+]

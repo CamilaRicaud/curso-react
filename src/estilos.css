@@ -1,0 +1,82 @@
+
+.Navbar{
+    color: rgb(32, 44, 32);
+}
+.menu{
+    font-size: 20px;
+    color: rgb(32, 44, 32);
+}
+
+.tituloPrincipal{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(32, 44, 32);
+    text-align: center;
+    font-size: 60px;
+}
+.tituloSecundario{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(32, 44, 32);
+    text-align: center;
+    font-size: 40px;
+}
+
+.botonsumar{
+    background-color: rgb(195, 172, 172);
+    border-radius: 20%;
+    width: 2rem;
+    height: 2rem;
+}
+
+.botonagregar{
+    border-radius: black;
+}
+
+.precio{
+    color: rgb(32, 44, 32);
+    font-size: 25px;
+}
+.tituloCard{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(32, 44, 32);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(32, 44, 32);
+}
+
+.textoCard{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Arial, sans-serif;
+    color: rgb(32, 44, 32);
+}
+
+img{
+    width: 20rem;
+    height: 25rem;
+    text-align: center;
+    border-radius: 5%;
+}
+.contenedorPrincipal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    gap: 2rem;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.cardFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
